@@ -1,0 +1,56 @@
+.redux-container .redux-main {
+    margin-left: 0 !important;
+    font-family: 'IRANSans';
+}
+.redux-container, .control-section-redux, .control-panel-redux, .redux-metabox,.redux-group-tab h1,.redux-group-tab h2,.redux-group-tab h3,.redux-group-tab h4,.redux-group-tab h5 {
+    font-family: 'IRANSans';
+}
+.redux-container .ui-corner-all, .redux-container .ui-corner-bottom, .redux-container .ui-corner-left, .redux-container .ui-corner-bl, .control-section-redux .ui-corner-all, .control-section-redux .ui-corner-bottom, .control-section-redux .ui-corner-left, .control-section-redux .ui-corner-bl, .control-panel-redux .ui-corner-all, .control-panel-redux .ui-corner-bottom, .control-panel-redux .ui-corner-left, .control-panel-redux .ui-corner-bl, .redux-metabox .ui-corner-all, .redux-metabox .ui-corner-bottom, .redux-metabox .ui-corner-left, .redux-metabox .ui-corner-bl {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 4px;
+}
+.redux-container .ui-corner-all, .redux-container .ui-corner-top, .redux-container .ui-corner-left, .redux-container .ui-corner-tl, .control-section-redux .ui-corner-all, .control-section-redux .ui-corner-top, .control-section-redux .ui-corner-left, .control-section-redux .ui-corner-tl, .control-panel-redux .ui-corner-all, .control-panel-redux .ui-corner-top, .control-panel-redux .ui-corner-left, .control-panel-redux .ui-corner-tl, .redux-metabox .ui-corner-all, .redux-metabox .ui-corner-top, .redux-metabox .ui-corner-left, .redux-metabox .ui-corner-tl {
+    border-top-right-radius: 4px;
+    border-top-left-radius: 0px;
+}
+.redux-container .ui-corner-all, .redux-container .ui-corner-bottom, .redux-container .ui-corner-right, .redux-container .ui-corner-br, .control-section-redux .ui-corner-all, .control-section-redux .ui-corner-bottom, .control-section-redux .ui-corner-right, .control-section-redux .ui-corner-br, .control-panel-redux .ui-corner-all, .control-panel-redux .ui-corner-bottom, .control-panel-redux .ui-corner-right, .control-panel-redux .ui-corner-br, .redux-metabox .ui-corner-all, .redux-metabox .ui-corner-bottom, .redux-metabox .ui-corner-right, .redux-metabox .ui-corner-br {
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 4px;
+}
+.redux-container .ui-corner-all, .redux-container .ui-corner-top, .redux-container .ui-corner-right, .redux-container .ui-corner-tr, .control-section-redux .ui-corner-all, .control-section-redux .ui-corner-top, .control-section-redux .ui-corner-right, .control-section-redux .ui-corner-tr, .control-panel-redux .ui-corner-all, .control-panel-redux .ui-corner-top, .control-panel-redux .ui-corner-right, .control-panel-redux .ui-corner-tr, .redux-metabox .ui-corner-all, .redux-metabox .ui-corner-top, .redux-metabox .ui-corner-right, .redux-metabox .ui-corner-tr {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+.redux-notice-field.redux-success {
+    border-right: 4px solid #7ad03a;
+    border-left: none;
+}
+.redux-notice-field .redux-info-icon {
+    margin-left: 15px;
+    margin-right: 0;
+}
+.redux-container .redux-action_bar #redux-defaults-top, .redux-container .redux-action_bar #redux-defaults-bottom,.redux-container .redux-action_bar #redux-defaults-section-top, .redux-container .redux-action_bar #redux-defaults-section-bottom {
+    margin-right: 2px;
+    margin-left: 0;
+}
+.redux-main {
+    margin-right: 250px;
+}
+.redux-sidebar {
+    width: 250px;
+}
+.redux-sidebar .redux-group-tab-link-li.hasSubSections.redux-section-hover .subsection {
+    right: 250px;
+    left: 0;
+	width: 230px !important;
+}
+.redux-sidebar .redux-group-tab-link-li.hasSubSections.redux-section-hover .subsection a {
+    width: 200px;
+}
+.redux-container #redux-footer {
+    left: 21px;
+    right: auto !important;
+}
+.redux-sidebar .redux-group-menu li.active a, .redux-sidebar .redux-group-menu li.active a:hover, .redux-sidebar .redux-group-menu li.activeChild a, .redux-sidebar .redux-group-menu li.activeChild a:hover {
+    width: 230px;
+}

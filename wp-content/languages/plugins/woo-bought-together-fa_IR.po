@@ -1,0 +1,952 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Project-Id-Version: WPC Frequently Bought Together for WooCommerce\n"
+"POT-Creation-Date: 2024-02-02 11:37+0330\n"
+"PO-Revision-Date: 2024-02-02 12:46+0330\n"
+"Language-Team: Artia WeB <info@artia-web.ir>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpc-frequently-bought-together.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Artia WeB <info@artia-web.ir>\n"
+"Language: fa_IR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/kit/wpc-kit.php:37
+msgid "WPC Essential Kit"
+msgstr "WPC Essential Kit"
+
+#: includes/kit/wpc-kit.php:37 wpc-frequently-bought-together.php:301
+msgid "Essential Kit"
+msgstr "Essential Kit"
+
+#: includes/kit/wpc-kit.php:153 includes/kit/wpc-kit.php:231
+msgid "Deactivate"
+msgstr "غیرفعال کردن"
+
+#: includes/kit/wpc-kit.php:159 includes/kit/wpc-kit.php:237
+msgid "Activate"
+msgstr "فعال کردن"
+
+#: includes/kit/wpc-kit.php:165
+msgid "Install Now"
+msgstr "الآن نصب کن"
+
+#: includes/kit/wpc-kit.php:170
+#, php-format
+msgid "More information about %s"
+msgstr "اطلاعات بیشتر درمورد %s"
+
+#: includes/kit/wpc-kit.php:171
+msgid "More Details"
+msgstr "جزئیات بیشتر"
+
+#: includes/kit/wpc-kit.php:200
+msgid "Version:"
+msgstr "نسخه:"
+
+#: includes/kit/wpc-kit.php:207
+msgid "+ Active Installations"
+msgstr "+ نصب‌های فعال"
+
+#: includes/kit/wpc-kit.php:213
+msgid "Last Updated:"
+msgstr "آخرین بروزرسانی:"
+
+#: includes/kit/wpc-kit.php:214
+#, php-format
+msgid "%s ago"
+msgstr "پیش %s"
+
+#: wpc-frequently-bought-together.php:205
+msgid "Above add to cart button"
+msgstr "بالای دکمه افزودن به سبد خرید"
+
+#: wpc-frequently-bought-together.php:206
+msgid "Under add to cart button"
+msgstr "زیر دکمه افزودن به سبد خرید"
+
+#: wpc-frequently-bought-together.php:207
+msgid "Under the title"
+msgstr "پایین عنوان"
+
+#: wpc-frequently-bought-together.php:208
+msgid "Under the price"
+msgstr "پایین قیمت"
+
+#: wpc-frequently-bought-together.php:209
+msgid "Under the excerpt"
+msgstr "پایین خلاصه توضیحات"
+
+#: wpc-frequently-bought-together.php:210
+msgid "Under the meta"
+msgstr "پایین اطلاعات"
+
+#: wpc-frequently-bought-together.php:211
+msgid "Under summary"
+msgstr "پایین جزئیات"
+
+#: wpc-frequently-bought-together.php:212
+msgid "None (hide it)"
+msgstr "هیچ (مخفی کردن)"
+
+#: wpc-frequently-bought-together.php:255 wpc-frequently-bought-together.php:266
+msgid "WPC Frequently Bought Together"
+msgstr "افزونه خرید باهم (همزمان) WPC"
+
+#: wpc-frequently-bought-together.php:255 wpc-frequently-bought-together.php:1629
+msgid "Bought Together"
+msgstr "خرید همزمان"
+
+#: wpc-frequently-bought-together.php:266
+msgid "Premium"
+msgstr "پرمیوم"
+
+#. translators: %s is the stars
+#: wpc-frequently-bought-together.php:269
+#, php-format
+msgid ""
+"Thank you for using our plugin! If you are satisfied, please reward it a full "
+"five-star %s rating."
+msgstr ""
+"از اینکه از افزونه ما استفاده کردید متشکریم! اگر راضی هستید، لطفاً یک امتیاز "
+"کامل پنج ستاره %s به ما بدهید."
+
+#: wpc-frequently-bought-together.php:271
+msgid "Reviews"
+msgstr "بررسی ها"
+
+#: wpc-frequently-bought-together.php:272
+msgid "Changelog"
+msgstr "تغییرات"
+
+#: wpc-frequently-bought-together.php:273
+msgid "Discussion"
+msgstr "نظرات"
+
+#: wpc-frequently-bought-together.php:278
+msgid "Settings updated."
+msgstr "تنظیمات به روز شد."
+
+#: wpc-frequently-bought-together.php:284
+msgid "How to use?"
+msgstr "چگونه از افزونه استفاده کنم؟"
+
+#: wpc-frequently-bought-together.php:287 wpc-frequently-bought-together.php:948
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: wpc-frequently-bought-together.php:290
+msgid "Localization"
+msgstr "بومی سازی"
+
+#: wpc-frequently-bought-together.php:294
+msgid "Tools"
+msgstr "ابزارها"
+
+#: wpc-frequently-bought-together.php:298 wpc-frequently-bought-together.php:949
+msgid "Premium Version"
+msgstr "نسخه حرفه ای"
+
+#: wpc-frequently-bought-together.php:309
+msgid ""
+"When adding/editing the product you can choose Bought Together tab then add "
+"some products with the new price."
+msgstr ""
+"هنگام افزودن/ویرایش محصول، می‌توانید تب «خرید همزمان» را انتخاب کنید و سپس چند "
+"محصول را با قیمت جدید اضافه کنید."
+
+#: wpc-frequently-bought-together.php:341 wpc-frequently-bought-together.php:627
+msgid "General"
+msgstr "عمومی"
+
+#: wpc-frequently-bought-together.php:345
+msgid "Pricing method"
+msgstr "روش قیمت گذاری"
+
+#: wpc-frequently-bought-together.php:348
+msgid "from Sale price"
+msgstr "از قیمت فروش"
+
+#: wpc-frequently-bought-together.php:349
+msgid "from Regular price"
+msgstr "از قیمت معمولی"
+
+#: wpc-frequently-bought-together.php:351
+msgid ""
+"Calculate prices from the sale price (default) or regular price of products."
+msgstr "قیمت ها را از قیمت فروش (پیش فرض) یا قیمت معمولی محصولات محاسبه کنید."
+
+#: wpc-frequently-bought-together.php:355
+msgid "Default products"
+msgstr "محصولات پیش فرض"
+
+#: wpc-frequently-bought-together.php:357
+msgid "Default products when don't specified any products."
+msgstr "محصولات پیش‌فرض، زمانی که هیچ محصولی مشخص نشده است."
+
+#: wpc-frequently-bought-together.php:385
+msgid "Related products"
+msgstr "محصولات مرتبط"
+
+#: wpc-frequently-bought-together.php:391
+msgid "Upsells products"
+msgstr "محصولات پیشنهادی (Upsells)"
+
+#: wpc-frequently-bought-together.php:397
+msgid "Cross-sells products"
+msgstr "فروش محصولات متناسب"
+
+#: wpc-frequently-bought-together.php:404
+msgid "Limit"
+msgstr "محدودیت"
+
+#: wpc-frequently-bought-together.php:410
+msgid "New price"
+msgstr "قیمت جدید"
+
+#: wpc-frequently-bought-together.php:413
+msgid ""
+"Set a new price for each product using a number (eg. \"49\") or percentage "
+"(eg. \"90%\" of original price)."
+msgstr ""
+"برای هر محصول، یک قیمت جدید با استفاده از یک عدد (مثلاً \"49\") یا درصد (مثلاً "
+"\"90%\" از قیمت اصلی) تعیین کنید."
+
+#: wpc-frequently-bought-together.php:417 wpc-frequently-bought-together.php:1744
+msgid "Discount"
+msgstr "تخفیف"
+
+#: wpc-frequently-bought-together.php:420 wpc-frequently-bought-together.php:1747
+msgid ""
+"Discount for the main product when buying at least one product in this list."
+msgstr "تخفیف برای محصول اصلی هنگام خرید حداقل یک محصول از این لیست."
+
+#: wpc-frequently-bought-together.php:427 wpc-frequently-bought-together.php:1797
+msgid "Layout"
+msgstr "طرحبندی"
+
+#: wpc-frequently-bought-together.php:430 wpc-frequently-bought-together.php:1801
+msgid "List"
+msgstr "فهرست"
+
+#: wpc-frequently-bought-together.php:431 wpc-frequently-bought-together.php:1802
+msgid "Separate images"
+msgstr "تصاویر جدا"
+
+#: wpc-frequently-bought-together.php:432 wpc-frequently-bought-together.php:1803
+msgid "Grid - 2 columns"
+msgstr "شبکه - 2 ستون"
+
+#: wpc-frequently-bought-together.php:433 wpc-frequently-bought-together.php:1804
+msgid "Grid - 3 columns"
+msgstr "شبکه -3 ستون"
+
+#: wpc-frequently-bought-together.php:434 wpc-frequently-bought-together.php:1805
+msgid "Grid - 4 columns"
+msgstr "شبکه - 4 ستون"
+
+#: wpc-frequently-bought-together.php:439 wpc-frequently-bought-together.php:1810
+msgid "Position"
+msgstr "موقعیت"
+
+#: wpc-frequently-bought-together.php:454 wpc-frequently-bought-together.php:1825
+msgid ""
+"Choose the position to show the products list. You also can use the shortcode "
+"[woobt] to show the list where you want."
+msgstr ""
+"موقعیت نمایش لیست محصولات را انتخاب کنید. همچنین می‌توانید از کد کوتاه [woobt] "
+"برای نمایش لیست در هر جایی که مایلید، استفاده کنید."
+
+#: wpc-frequently-bought-together.php:458 wpc-frequently-bought-together.php:1829
+msgid "Add to cart button"
+msgstr "دکمه افزودن به سبد خرید"
+
+#: wpc-frequently-bought-together.php:461 wpc-frequently-bought-together.php:1833
+msgid "Main product's button"
+msgstr "دکمه محصول اصلی"
+
+#: wpc-frequently-bought-together.php:462 wpc-frequently-bought-together.php:1834
+msgid "Separate buttons"
+msgstr "دکمه های جداگانه"
+
+#: wpc-frequently-bought-together.php:467 wpc-frequently-bought-together.php:1839
+msgid "Show \"this item\""
+msgstr "نمایش \"این مورد\""
+
+#: wpc-frequently-bought-together.php:470 wpc-frequently-bought-together.php:480
+#: wpc-frequently-bought-together.php:490 wpc-frequently-bought-together.php:509
+#: wpc-frequently-bought-together.php:518 wpc-frequently-bought-together.php:548
+#: wpc-frequently-bought-together.php:558 wpc-frequently-bought-together.php:581
+#: wpc-frequently-bought-together.php:596 wpc-frequently-bought-together.php:830
+#: wpc-frequently-bought-together.php:839 wpc-frequently-bought-together.php:849
+#: wpc-frequently-bought-together.php:859 wpc-frequently-bought-together.php:869
+#: wpc-frequently-bought-together.php:1843
+msgid "Yes"
+msgstr "بله"
+
+#: wpc-frequently-bought-together.php:471 wpc-frequently-bought-together.php:481
+#: wpc-frequently-bought-together.php:491 wpc-frequently-bought-together.php:501
+#: wpc-frequently-bought-together.php:510 wpc-frequently-bought-together.php:519
+#: wpc-frequently-bought-together.php:540 wpc-frequently-bought-together.php:549
+#: wpc-frequently-bought-together.php:560 wpc-frequently-bought-together.php:582
+#: wpc-frequently-bought-together.php:597 wpc-frequently-bought-together.php:831
+#: wpc-frequently-bought-together.php:840 wpc-frequently-bought-together.php:850
+#: wpc-frequently-bought-together.php:860 wpc-frequently-bought-together.php:870
+#: wpc-frequently-bought-together.php:1844
+msgid "No"
+msgstr "خیر"
+
+#: wpc-frequently-bought-together.php:473 wpc-frequently-bought-together.php:1846
+msgid ""
+"\"This item\" cannot be hidden if \"Separate buttons\" is in use for the Add "
+"to Cart button."
+msgstr ""
+"\"این مورد\" قابلیت پنهان شدن را نخواهد داشت اگر از گزینه \"دکمه‌های جداگانه\" "
+"برای دکمه افزودن به سبد خرید استفاده شود."
+
+#: wpc-frequently-bought-together.php:477
+msgid "Exclude unpurchasable"
+msgstr "منحصر به فرد کردن (استثناء) آیتم‌های غیرقابل خرید"
+
+#: wpc-frequently-bought-together.php:483
+msgid "Exclude unpurchasable products from the list."
+msgstr "آیتم‌های غیرقابل خرید را از لیست حذف کنید."
+
+#: wpc-frequently-bought-together.php:487
+msgid "Show thumbnail"
+msgstr "نمایش تصویر کوچک (تامبنیل)"
+
+#: wpc-frequently-bought-together.php:496
+msgid "Show price"
+msgstr "نمایش قیمت"
+
+#: wpc-frequently-bought-together.php:499
+msgid "Price"
+msgstr "قیمت"
+
+#: wpc-frequently-bought-together.php:500
+msgid "Total"
+msgstr "جمع"
+
+#: wpc-frequently-bought-together.php:506
+msgid "Show short description"
+msgstr "نمایش توضیحات مختصر"
+
+#: wpc-frequently-bought-together.php:515
+msgid "Show plus/minus button"
+msgstr "نمایش دکمه‌های افزایش/کاهش (+/-)"
+
+#: wpc-frequently-bought-together.php:521
+msgid "Show the plus/minus button for the quantity input."
+msgstr "نمایش دکمه‌های افزایش/کاهش (+/-) برای ورودی تعداد."
+
+#: wpc-frequently-bought-together.php:525
+msgid "Variations selector"
+msgstr "انتخاب‌کننده متغیرها"
+
+#: wpc-frequently-bought-together.php:528
+msgid "Default"
+msgstr "پیش فرض"
+
+#: wpc-frequently-bought-together.php:529
+msgid "Use WPC Variations Radio Buttons"
+msgstr "استفاده از دکمه‌های رادیویی متغیرهای WPC"
+
+#: wpc-frequently-bought-together.php:534
+msgid "Link to individual product"
+msgstr "لینک به هر محصول به صورت جداگانه"
+
+#: wpc-frequently-bought-together.php:537
+msgid "Yes, open in the same tab"
+msgstr "بله، در همان تب باز شود"
+
+#: wpc-frequently-bought-together.php:538
+msgid "Yes, open in the new tab"
+msgstr "بله، در تب جدید باز شود"
+
+#: wpc-frequently-bought-together.php:539
+msgid "Yes, open quick view popup"
+msgstr "بله، در پنجره نمایش سریع (Quick View) باز شود"
+
+#: wpc-frequently-bought-together.php:545
+msgid "Change image"
+msgstr "تغییر تصویر"
+
+#: wpc-frequently-bought-together.php:551
+msgid ""
+"Change the main product image when choosing the variation of variable products."
+msgstr "تغییر تصویر اصلی محصول هنگام انتخاب نسخه‌های متغیر از محصولات متغیر."
+
+#: wpc-frequently-bought-together.php:555
+msgid "Change price"
+msgstr "تغییر قیمت"
+
+#: wpc-frequently-bought-together.php:559
+msgid "Yes, custom selector"
+msgstr "بله، انتخاب‌کننده سفارشی"
+
+#: wpc-frequently-bought-together.php:563
+msgid ""
+"Change the main product price when choosing the variation or quantity of "
+"products. It uses JavaScript to change product price so it is very dependent "
+"on theme’s HTML. If it cannot find and update the product price, please "
+"contact us and we can help you find the right selector or adjust the JS file."
+msgstr ""
+"تغییر قیمت اصلی محصول هنگام انتخاب نسخه یا تعداد محصول. این اقدام از "
+"جاوااسکریپت برای تغییر قیمت محصول استفاده می‌کند، بنابراین بسیار وابسته به HTML "
+"قالب است. اگر نتواند قیمت محصول را پیدا و به‌روزرسانی کند، لطفاً با ما ارتباط "
+"بگیرید تا ما به شما کمک کنیم تا انتخاب‌کننده صحیح را پیدا کنید یا فایل JS را "
+"تنظیم کنیم."
+
+#: wpc-frequently-bought-together.php:567
+msgid "Counter"
+msgstr "شمارنده"
+
+#: wpc-frequently-bought-together.php:570
+msgid "Count the individual products"
+msgstr "شمارش محصولات جداگانه"
+
+#: wpc-frequently-bought-together.php:571
+msgid "Count the product quantities"
+msgstr "شمارش مقادیر محصولات"
+
+#: wpc-frequently-bought-together.php:572
+msgid "Hide"
+msgstr "پنهان شدن"
+
+#: wpc-frequently-bought-together.php:574
+msgid "Counter on the add to cart button."
+msgstr "شمارنده روی دکمه افزودن به سبد خرید."
+
+#: wpc-frequently-bought-together.php:578
+msgid "Responsive"
+msgstr "رسپانسیو"
+
+#: wpc-frequently-bought-together.php:584
+msgid "Change the layout for small screen devices."
+msgstr "تغییر طرح بندی برای دستگاه‌های صفحه کوچک."
+
+#: wpc-frequently-bought-together.php:589
+msgid "Cart & Checkout"
+msgstr "سبدخرید و تسویه حساب"
+
+#: wpc-frequently-bought-together.php:593
+msgid "Change quantity"
+msgstr "تغییر تعداد"
+
+#: wpc-frequently-bought-together.php:599
+msgid "Buyer can change the quantity of associated products or not?"
+msgstr "آیا خریدار می‌تواند تعداد محصولات مرتبط را تغییر دهد یا خیر؟"
+
+#: wpc-frequently-bought-together.php:604 wpc-frequently-bought-together.php:1680
+msgid "Search"
+msgstr "جست‌وجو"
+
+#: wpc-frequently-bought-together.php:609
+msgid "Suggestion"
+msgstr "پیشنهاد"
+
+#: wpc-frequently-bought-together.php:629
+msgid ""
+"Leave blank to use the default text and its equivalent translation in multiple "
+"languages."
+msgstr "برای استفاده از متن پیش‌فرض و معادل ترجمه آن در چندین زبان، خالی بگذارید."
+
+#: wpc-frequently-bought-together.php:633
+msgid "This item"
+msgstr "این مورد"
+
+#: wpc-frequently-bought-together.php:635 wpc-frequently-bought-together.php:2440
+msgid "This item:"
+msgstr "این مورد:"
+
+#: wpc-frequently-bought-together.php:639
+msgid "Choose an attribute"
+msgstr "انتخاب یک ویژگی"
+
+#: wpc-frequently-bought-together.php:641 wpc-frequently-bought-together.php:2489
+#, php-format
+msgid "Choose %s"
+msgstr "انتخاب %s"
+
+#: wpc-frequently-bought-together.php:642
+#, php-format
+msgid "Use %s to show the attribute name."
+msgstr "از %s برای نمایش نام ویژگی استفاده کنید."
+
+#: wpc-frequently-bought-together.php:646 wpc-frequently-bought-together.php:648
+#: wpc-frequently-bought-together.php:2496
+msgid "Clear"
+msgstr "پاکسازی"
+
+#: wpc-frequently-bought-together.php:652
+msgid "Additional price"
+msgstr "قیمت اضافی"
+
+#: wpc-frequently-bought-together.php:654 wpc-frequently-bought-together.php:921
+msgid "Additional price:"
+msgstr "قیمت اضافی:"
+
+#: wpc-frequently-bought-together.php:658
+msgid "Total price"
+msgstr "قیمت کل"
+
+#: wpc-frequently-bought-together.php:660 wpc-frequently-bought-together.php:922
+msgid "Total:"
+msgstr "جمع:"
+
+#: wpc-frequently-bought-together.php:664
+msgid "Associated"
+msgstr "مرتبط"
+
+#: wpc-frequently-bought-together.php:666 wpc-frequently-bought-together.php:1006
+#: wpc-frequently-bought-together.php:1415
+#, php-format
+msgid "(bought together %s)"
+msgstr "(با هم خریداری شده %s)"
+
+#: wpc-frequently-bought-together.php:667
+#, php-format
+msgid ""
+"The text behind associated products. Use \"%s\" for the main product name."
+msgstr "متن پشت محصولات مرتبط. از \"%s\" برای نام محصول اصلی استفاده کنید."
+
+#: wpc-frequently-bought-together.php:671 wpc-frequently-bought-together.php:673
+#: wpc-frequently-bought-together.php:923
+msgid "Add to cart"
+msgstr "اضافه به سبد خرید"
+
+#: wpc-frequently-bought-together.php:677 wpc-frequently-bought-together.php:679
+#: wpc-frequently-bought-together.php:923 wpc-frequently-bought-together.php:2381
+msgid "Add all to cart"
+msgstr "افزودن همه به سبد خرید"
+
+#: wpc-frequently-bought-together.php:683
+msgid "Default above text"
+msgstr "متن پیش‌فرض بالا"
+
+#: wpc-frequently-bought-together.php:686
+msgid ""
+"The default text above products list. You can overwrite it for each product in "
+"product settings."
+msgstr ""
+"متن پیش‌فرض بالا از لیست محصولات. شما می‌توانید آن را برای هر محصول در تنظیمات "
+"محصول بازنویسی کنید."
+
+#: wpc-frequently-bought-together.php:690
+msgid "Default under text"
+msgstr "متن پیش‌فرض زیر محصولات"
+
+#: wpc-frequently-bought-together.php:693
+msgid ""
+"The default text under products list. You can overwrite it for each product in "
+"product settings."
+msgstr ""
+"متن پیش‌فرض زیر لیست محصولات. شما می‌توانید آن را برای هر محصول در تنظیمات محصول "
+"بازنویسی کنید."
+
+#: wpc-frequently-bought-together.php:698
+msgid "Alert"
+msgstr "هشدارها"
+
+#: wpc-frequently-bought-together.php:702
+msgid "Require selection"
+msgstr "نیاز به انتخاب"
+
+#: wpc-frequently-bought-together.php:704 wpc-frequently-bought-together.php:924
+msgid ""
+"Please select a purchasable variation for [name] before adding this product to "
+"the cart."
+msgstr ""
+"لطفاً یک نسخه خریداری‌پذیر برای [نام] انتخاب کنید قبل از افزودن این محصول به سبد "
+"خرید."
+
+#: wpc-frequently-bought-together.php:717
+msgid "Data Migration"
+msgstr "اطلاعات مهاجرت"
+
+#: wpc-frequently-bought-together.php:719
+msgid ""
+"If selected products don't appear on the current version. Please try running "
+"Migrate tool."
+msgstr ""
+"اگر محصولات انتخابی در نسخه فعلی نمایان نشوند، لطفاً تلاش کنید ابزار مهاجرت را "
+"اجرا کنید."
+
+#: wpc-frequently-bought-together.php:772
+msgid "Migrating..."
+msgstr "در حال مهاجرت..."
+
+#: wpc-frequently-bought-together.php:773
+msgid "Please wait until it has finished!"
+msgstr "لطفاً منتظر بمانید تا اتمام یابد!"
+
+#: wpc-frequently-bought-together.php:785
+msgid "Finished!"
+msgstr "تمام شد !"
+
+#: wpc-frequently-bought-together.php:788
+msgid "Migrate"
+msgstr "مهاجرت"
+
+#: wpc-frequently-bought-together.php:821
+msgid "Search limit"
+msgstr "محدودیت جستجو"
+
+#: wpc-frequently-bought-together.php:827
+msgid "Search by SKU"
+msgstr "جستجو بر اساس کد SKU"
+
+#: wpc-frequently-bought-together.php:836
+msgid "Search by ID"
+msgstr "جستجو بر اساس شناسه (ID)"
+
+#: wpc-frequently-bought-together.php:842
+msgid "Search by ID when entering the numeric only."
+msgstr "جستجو بر اساس شناسه (ID) هنگام وارد کردن عدد به صورت انفرادی."
+
+#: wpc-frequently-bought-together.php:846
+msgid "Search exact"
+msgstr "جستجوی دقیق"
+
+#: wpc-frequently-bought-together.php:852
+msgid "Match whole product title or content?"
+msgstr "تطابق با عنوان کامل محصول یا محتوا؟"
+
+#: wpc-frequently-bought-together.php:856
+msgid "Search sentence"
+msgstr "جستجوی جمله"
+
+#: wpc-frequently-bought-together.php:862
+msgid "Do a phrase search?"
+msgstr "انجام جستجوی عبارت (عبارت دقیق)؟"
+
+#: wpc-frequently-bought-together.php:866
+msgid "Accept same products"
+msgstr "پذیرفتن محصولات یکسان"
+
+#: wpc-frequently-bought-together.php:872
+msgid "If yes, a product can be added many times."
+msgstr "اگر بله باشد، یک محصول می‌تواند چندین بار اضافه شود."
+
+#: wpc-frequently-bought-together.php:876
+msgid "Product types"
+msgstr "انواع محصولات"
+
+#: wpc-frequently-bought-together.php:881
+msgid "All"
+msgstr "همه"
+
+#: wpc-frequently-bought-together.php:887
+msgid " → Variation"
+msgstr " « متغیر"
+
+#: wpc-frequently-bought-together.php:965
+msgid "Community support"
+msgstr "پشتیبانی از جامعه"
+
+#. translators: %s is the count
+#: wpc-frequently-bought-together.php:986
+#, php-format
+msgid "Bought together (%s)"
+msgstr "با هم خریداری شده (%s)"
+
+#: wpc-frequently-bought-together.php:1064
+#: wpc-frequently-bought-together.php:1073
+#: wpc-frequently-bought-together.php:1082
+#: wpc-frequently-bought-together.php:1088
+#: wpc-frequently-bought-together.php:1096
+#: wpc-frequently-bought-together.php:1103
+#: wpc-frequently-bought-together.php:1112
+#: wpc-frequently-bought-together.php:1119
+#: wpc-frequently-bought-together.php:1126
+msgid "You cannot add this product to the cart."
+msgstr "شما نمی‌توانید این محصول را به سبد خرید اضافه کنید."
+
+#: wpc-frequently-bought-together.php:1072
+msgid "One of the associated products is unavailable."
+msgstr "یکی از محصولات مرتبط در دسترس نیست."
+
+#. translators: %s is the product name
+#: wpc-frequently-bought-together.php:1095
+#, php-format
+msgid "\"%s\" is un-purchasable."
+msgstr "\"%s\" خریداری‌پذیر نیست."
+
+#. translators: %s is the product name
+#: wpc-frequently-bought-together.php:1102
+#, php-format
+msgid "You cannot add another \"%s\" to the cart."
+msgstr "شما نمی‌توانید یک \"%s\" دیگر به سبد خرید اضافه کنید."
+
+#. translators: %s is the product name
+#: wpc-frequently-bought-together.php:1111
+#, php-format
+msgid "\"%s\" does not reach the minimum quantity."
+msgstr "\"%s\" به حداقل تعداد مورد نیاز نمی‌رسد."
+
+#. translators: %s is the product name
+#: wpc-frequently-bought-together.php:1118
+#, php-format
+msgid "\"%s\" passes the maximum quantity."
+msgstr "\"%s\" از حداکثر تعداد ممکن عبور می‌کند."
+
+#. translators: %s is the keyword
+#: wpc-frequently-bought-together.php:1578
+#, php-format
+msgid "No results found for \"%s\""
+msgstr "هیچ نتیجه‌ای برای \"%s\" یافت نشد."
+
+#: wpc-frequently-bought-together.php:1603
+msgid "Add"
+msgstr "اضافه کردن"
+
+#: wpc-frequently-bought-together.php:1605
+#: wpc-frequently-bought-together.php:1624
+msgid "Remove"
+msgstr "حذف کنید"
+
+#: wpc-frequently-bought-together.php:1610
+msgid ""
+"Set a new price using a number (eg. \"49\") or percentage (eg. \"90%\" of "
+"original price)"
+msgstr ""
+"یک قیمت جدید با استفاده از یک عدد (مثلاً \"49\") یا درصد (مثلاً \"90%\" از قیمت "
+"اصلی) تعیین کنید."
+
+#: wpc-frequently-bought-together.php:1610
+msgid "Default quantity"
+msgstr "تعداد پیش‌فرض"
+
+#: wpc-frequently-bought-together.php:1652
+msgid "Product wasn't returned."
+msgstr "کالا بازگردانده نشد."
+
+#: wpc-frequently-bought-together.php:1665
+msgid "Search settings"
+msgstr "تنظیمات جستجو"
+
+#: wpc-frequently-bought-together.php:1672
+msgid "Update Options"
+msgstr "به‌روزرسانی تنظیمات"
+
+#: wpc-frequently-bought-together.php:1680
+msgid "settings"
+msgstr "تنظیمات"
+
+#: wpc-frequently-bought-together.php:1684
+msgid "searching..."
+msgstr "جست و جو . . ."
+
+#: wpc-frequently-bought-together.php:1685
+msgid "Type any keyword to search"
+msgstr "هر کلمه کلیدی را برای جستجو وارد کنید"
+
+#: wpc-frequently-bought-together.php:1692
+msgid "Selected"
+msgstr "انتخاب شده"
+
+#: wpc-frequently-bought-together.php:1694
+msgid "import/export"
+msgstr "درون ریزی / برون بری"
+
+#: wpc-frequently-bought-together.php:1699
+#, php-format
+msgid "* If don't choose any products, it can shows the default products %s."
+msgstr "* اگر هیچ محصولی انتخاب نشود، ممکن است محصولات پیش‌فرض %s نمایش داده شود."
+
+#: wpc-frequently-bought-together.php:1700
+msgid "here"
+msgstr "اینجا"
+
+#: wpc-frequently-bought-together.php:1732
+msgid "+ Add heading/paragraph"
+msgstr "+ افزودن عنوان/پاراگراف"
+
+#: wpc-frequently-bought-together.php:1737
+msgid "Add separately"
+msgstr "جداگانه اضافه کنید"
+
+#: wpc-frequently-bought-together.php:1740
+msgid ""
+"If enabled, the associated products will be added as separate items and stay "
+"unaffected from the main product, their prices will change back to the "
+"original."
+msgstr ""
+"در صورت فعال بودن، محصولات مرتبط به عنوان آیتم‌های جداگانه اضافه می‌شوند و از "
+"محصول اصلی تأثیری نمی‌پذیرند. قیمت آنها به حالت اصلی باز می‌گردد."
+
+#: wpc-frequently-bought-together.php:1751
+msgid "Selecting method"
+msgstr "روش انتخاب"
+
+#: wpc-frequently-bought-together.php:1754
+msgid "Multiple selection (default)"
+msgstr "انتخاب چندگانه (پیش‌فرض)"
+
+#: wpc-frequently-bought-together.php:1755
+msgid "Single selection (choose 1 only)"
+msgstr "انتخاب تکی (فقط یکی انتخاب کنید)"
+
+#: wpc-frequently-bought-together.php:1760
+msgid "Checked all"
+msgstr "همه را انتخاب کردید"
+
+#: wpc-frequently-bought-together.php:1763
+msgid "Checked all by default."
+msgstr "همه به صورت پیش‌فرض انتخاب شده است."
+
+#: wpc-frequently-bought-together.php:1767
+msgid "Custom quantity"
+msgstr "تعداد سفارشی"
+
+#: wpc-frequently-bought-together.php:1770
+msgid "Allow the customer can change the quantity of each product."
+msgstr "اجازه دادن به مشتری برای تغییر تعداد هر محصول."
+
+#: wpc-frequently-bought-together.php:1774
+msgid "Sync quantity"
+msgstr "همگام‌سازی تعداد"
+
+#: wpc-frequently-bought-together.php:1777
+msgid "Sync the quantity of the main product with associated products."
+msgstr "همگام‌سازی تعداد محصول اصلی با محصولات مرتبط."
+
+#: wpc-frequently-bought-together.php:1781
+msgid "Limit each item"
+msgstr "محدودیت برای هر مورد"
+
+#: wpc-frequently-bought-together.php:1784
+msgid "Use default quantity as min"
+msgstr "استفاده از تعداد پیش‌فرض به عنوان حداقل"
+
+#: wpc-frequently-bought-together.php:1791
+msgid "Displaying"
+msgstr "نمایش"
+
+#: wpc-frequently-bought-together.php:1793
+msgid "Overwrite the default displaying settings"
+msgstr "تنظیمات نمایش پیش‌فرض را بازنویسی کنید"
+
+#: wpc-frequently-bought-together.php:1800
+#: wpc-frequently-bought-together.php:1816
+#: wpc-frequently-bought-together.php:1832
+#: wpc-frequently-bought-together.php:1842
+msgid "Unset (default setting)"
+msgstr "عدم تنظیم (تنظیم پیش‌فرض)"
+
+#: wpc-frequently-bought-together.php:1850
+msgid "Above text"
+msgstr "متن فوق"
+
+#: wpc-frequently-bought-together.php:1858
+msgid "Under text"
+msgstr "متن زیر"
+
+#: wpc-frequently-bought-together.php:1971
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: wpc-frequently-bought-together.php:1972
+msgid "* All current selected products will be replaced after pressing Update!"
+msgstr ""
+"* تمام محصولات انتخاب شده در حال حاضر پس از فشردن دکمه به‌روزرسانی جایگزین "
+"خواهند شد!"
+
+#: wpc-frequently-bought-together.php:3007
+msgid "Bought together"
+msgstr "خرید با هم (همزمان)"
+
+#: wpc-frequently-bought-together.php:3008
+msgid "With associated products"
+msgstr "با محصولات مرتبط"
+
+#: wpc-frequently-bought-together.php:3009
+msgid "Without associated products"
+msgstr "بدون محصولات مرتبط"
+
+#: wpc-frequently-bought-together.php:3054
+msgid "Before wrapper"
+msgstr "قبل از بسته بندی"
+
+#: wpc-frequently-bought-together.php:3055
+msgid "After wrapper"
+msgstr "بعد از بسته‌بندی"
+
+#: wpc-frequently-bought-together.php:3056
+msgid "Before products"
+msgstr "قبل از محصولات"
+
+#: wpc-frequently-bought-together.php:3057
+msgid "After products"
+msgstr "بعد از محصولات"
+
+#: wpc-frequently-bought-together.php:3058
+msgid "Before sub-product"
+msgstr "قبل از  زیرمحصول"
+
+#: wpc-frequently-bought-together.php:3059
+msgid "After sub-product"
+msgstr "بعد از  زیرمحصول"
+
+#: wpc-frequently-bought-together.php:3060
+msgid "Before sub-product thumbnail"
+msgstr "قبل از تصویر کوچک زیرمحصول"
+
+#: wpc-frequently-bought-together.php:3061
+msgid "After sub-product thumbnail"
+msgstr "بعد از از تصویر کوچک زیرمحصول"
+
+#: wpc-frequently-bought-together.php:3062
+msgid "Before sub-product name"
+msgstr "قبل از اسم زیر محصول"
+
+#: wpc-frequently-bought-together.php:3063
+msgid "After sub-product name"
+msgstr "بعد از اسم زیر محصول"
+
+#: wpc-frequently-bought-together.php:3064
+msgid "Before sub-product price"
+msgstr "قبل از قیمت زیر محصول"
+
+#: wpc-frequently-bought-together.php:3065
+msgid "After sub-product price"
+msgstr "بعد از قیمت زیر محصول"
+
+#: wpc-frequently-bought-together.php:3066
+msgid "Before sub-product quantity"
+msgstr "قبل از تعداد  زیر محصول"
+
+#: wpc-frequently-bought-together.php:3067
+msgid "After sub-product quantity"
+msgstr "بعد از تعداد  زیر محصول"
+
+#. Plugin Name of the plugin/theme
+msgid "WPC Frequently Bought Together for WooCommerce"
+msgstr "WPC Frequently Bought Together برای WooCommerce"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpclever.net/"
+msgstr "https://wpclever.net/"
+
+#. Description of the plugin/theme
+msgid "Increase your sales with personalized product recommendations."
+msgstr "افزایش فروش خود را با پیشنهادات شخصی‌سازی شده محصول تقویت کنید."
+
+#. Author of the plugin/theme
+msgid "WPClever"
+msgstr "WPClever"
+
+#. Author URI of the plugin/theme
+msgid "https://wpclever.net"
+msgstr "https://wpclever.net"
